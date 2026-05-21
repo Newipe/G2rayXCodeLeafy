@@ -1,0 +1,1 @@
+vless://0c2db6a1-3ed1-4f69-8d05-ddc0f3920a4d@94.130.13.19:443?encryption=none&security=tls&sni=obscure-space-bassoon-pj6xpwj99qqgc9799-443.app.github.dev&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=obscure-space-bassoon-pj6xpwj99qqgc9799-443.app.github.dev&path=%2F&mode=packet-up#G2rayXCodeLeafy|Newipe
